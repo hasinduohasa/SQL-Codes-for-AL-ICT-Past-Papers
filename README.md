@@ -2,7 +2,7 @@
 
 ---
 
-# SQL Codes for AL ICT Past Papers
+# SQL Codes for GCE AL ICT Past Papers
 
 This repository contains SQL code solutions for Entity-Relationship (ER) diagrams from previous Advanced Level (AL) ICT exam papers. It’s created to help students understand database design and SQL queries better, and to assist in exam preparation.
 
