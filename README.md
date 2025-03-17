@@ -4,14 +4,14 @@
 
 # SQL Codes for GCE AL ICT Past Papers
 
-This repository contains SQL code solutions for Entity-Relationship (ER) diagrams from previous Advanced Level (AL) ICT exam papers. It’s created to help students understand database design and SQL queries better, and to assist in exam preparation.
+This contains SQL code solutions for Entity-Relationship (ER) diagrams from previous Advanced Level (AL) ICT exam papers. It’s created to help students understand database designs better.
 
 ---
 
 ## How to Use
 
-1. Browse through the past papers folder.
-2. Each folder contains SQL code for a specific exam paper.
+1. Download Each SQL files.
+2. Open WAMP server, go to phpMyAdmin, click the 'Import' tab at the top, and upload your file 
 3. Feel free to explore, use, and modify the code as per your needs.
 
 ---
