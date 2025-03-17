@@ -21,11 +21,6 @@ This contains SQL code solutions for Entity-Relationship (ER) diagrams from prev
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## About
-
-I’ve created this repository to assist AL ICT students in their exam preparation. It includes SQL solutions for all past exam papers and will help you understand how to approach ER diagrams and convert them into working SQL code. Feel free to use, share, and modify the code!
-
 ---
 
 ## Contact
