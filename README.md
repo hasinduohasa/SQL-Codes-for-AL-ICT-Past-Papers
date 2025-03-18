@@ -10,8 +10,8 @@ This contains SQL code solutions for Entity-Relationship (ER) diagrams from prev
 
 ## How to Use
 
-1. Download Each SQL files.
-2. Open WAMP server, go to phpMyAdmin, click the **'Import'** tab at the top, and upload your file 
+1. Download Each SQL file. Click the Green Button (<>Code) and "Download The Zip"
+2. Open the WAMP server, go to phpMyAdmin, click the **'Import'** tab at the top, and upload your file 
 3. Feel free to explore, use, and modify the code as per your needs.
 
 ---
